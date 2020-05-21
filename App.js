@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>{name}</Text>
-      <Button title="Change text" onPress={(e) => setName("Pitska Kari2")} ></Button>
+      <Button title="Change text" onPress={(e) => setName("Pitska Kari3")} ></Button>
     </View>
   );
 }
